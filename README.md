@@ -1,5 +1,9 @@
 # Matheus Amaral | Software Engineer 
 
+<div align="center">
+  <img src="https://github.com/matheushenw/matheushenw/blob/main/LinkedIn-Banner-Software-1024x256.png?raw=true" alt="LinkedIn Banner" width="1024" height="256"/>
+</div>
+
 ## 📬 Connect With Me
 
 <div align="center">
@@ -9,10 +13,6 @@
   <a href="mailto:matheushda09@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/matheushenw/matheushenw/blob/main/LinkedIn-Banner-Software-1024x256.png?raw=true" alt="LinkedIn Banner" width="1024" height="256"/>
 </div>
 
 ## 💻 Tech Stack
