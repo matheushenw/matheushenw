@@ -1,5 +1,9 @@
 # Matheus Amaral | Software Engineer 
 
+<div align="center">
+  <img src="https://github.com/matheushenw/matheushenw/blob/main/LinkedIn-Banner-Software-1024x256.png?raw=true" alt="LinkedIn Banner" width="1024" height="256"/>
+</div>
+
 
 ## 📬 Connect With Me
 
